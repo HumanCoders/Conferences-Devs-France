@@ -5,7 +5,7 @@ Liste des conférences en France pour un public de développeur·se·s
 
 * [SnowCamp](http://snowcamp.io/fr/) - **Grenoble**
 * [FLOSSCon](https://www.flosscon.org/) - **Grenoble**
-* [Festival](http://www.festival-transfo.fr/) Transfo - **Grenoble**
+* [Festival Transfo](http://www.festival-transfo.fr/)  - **Grenoble**
 * [Dot Swift](https://www.dotswift.io/) - **Paris**
 
 
