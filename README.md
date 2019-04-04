@@ -20,6 +20,7 @@ Liste des conférences ayant lieu en France pour un public de développeur·se·
 
 * [Kaizen Tech Week](https://tech-week.kaizen-solutions.net/) - **Grenoble**
 * [Devoxx France](https://www.devoxx.fr/) - **Paris**
+* [NewCrafts Toulouse](https://toulouse.ncrafts.io/) - **Toulouse**
 
 ## MAI
 
@@ -45,8 +46,10 @@ Liste des conférences ayant lieu en France pour un public de développeur·se·
 ## OCTOBRE
 
 * [DevFest Nantes](https://devfest.gdgnantes.com/) - **Nantes**
+* [DevFest Toulouse](https://devfesttoulouse.fr/) - **Toulouse**
 * [NewCrafts Bordeaux](http://bordeaux.ncrafts.io/) - **Bordeaux**
 * [Paris Web](https://www.paris-web.fr/) - **Paris**
+* [Agile Tours Toulouse](https://tour.agiletoulouse.fr/) - **Toulouse**
 
 ## NOVEMBRE
 
