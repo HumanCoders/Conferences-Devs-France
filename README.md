@@ -36,6 +36,7 @@ Liste des conférences ayant lieu en France pour un public de développeur·se·
 * [DevFest Lille](https://devfest.gdglille.org/) - **Lille**
 * [Agile France](https://2019.conf.agile-france.org/) - **Paris**
 * [Sunny Tech](https://sunny-tech.io/) - **Montpellier**
+* [Pas Sage en Seine](https://passageenseine.fr/) - **Paris**
 
 ## JUILLET
 
