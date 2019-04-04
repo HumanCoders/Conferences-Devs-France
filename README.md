@@ -28,6 +28,7 @@ Liste des conférences ayant lieu en France pour un public de développeur·se·
 * [NewCrafts Paris](https://ncrafts.io/) - **Paris**
 * [MIXIT](https://mixitconf.org/) - **Lyon**
 * [Sud Web 2019](https://sudweb.fr/2019/) - **Toulouse**
+* [Vue.js Roadtrip](https://www.vuejsroadtrip.com/) - **Paris**
 
 ## JUIN
 
