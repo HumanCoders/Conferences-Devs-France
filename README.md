@@ -1,4 +1,4 @@
-# Conferences-Devs-France
+# Conférences pour Devs en France en 2019
 Liste des conférences ayant lieu en France pour un public de développeur·se·s.
 
 ## JANVIER
