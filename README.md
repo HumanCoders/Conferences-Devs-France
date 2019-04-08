@@ -33,6 +33,7 @@ Liste des conférences ayant lieu en France pour un public de développeur·se·
 ## JUIN
 
 * [Best of Web Paris](http://bestofweb.paris/) - **Paris**
+* [Elm Europe](https://2019.elmeurope.org/) - **Paris**
 * [Web2day](https://web2day.co/) - **Nantes**
 * [DevFest Lille](https://devfest.gdglille.org/) - **Lille**
 * [Agile France](https://2019.conf.agile-france.org/) - **Paris**
