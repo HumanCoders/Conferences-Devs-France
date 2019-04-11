@@ -1,4 +1,5 @@
-# Conferences-Devs-France
+# Conferences-Devs-France, 
 
-Liste des conférences en France pour un public de développeur·se·s par année.
-Pour l'année 2019, regardez la branche 2019.
+Conferences-Devs-France est un projet open source ayant pour but de lister toutes les conférences pour un public de développeur·se·s ayant lieu en France par année.
+
+A chaque année XXXX, correspond la branche XXXX.
